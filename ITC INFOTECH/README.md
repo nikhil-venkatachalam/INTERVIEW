@@ -1,12 +1,7 @@
 # ITC INFOTECH
 # INTERVIEW ROUND 1:
 
-
-
-1.Self Intro
-2.LOGS/ METRICS /TRACES
-
-3.SLI / SLO /SLI
+1-3) Self into and architecture
 
 4. How will you handle high latency in your application?
 
@@ -21,3 +16,7 @@
 9. Crash Loop backoff issue?
 
 10. HPA / VPA /HELM
+
+11. LOGS/ METRICS /TRACES
+
+12. SLI / SLO /SLI
