@@ -1,8 +1,9 @@
 # ITC INFOTECH
 # INTERVIEW ROUND 1:
 
-1.Self Intro
 
+
+1.Self Intro
 2.LOGS/ METRICS /TRACES
 
 3.SLI / SLO /SLI
